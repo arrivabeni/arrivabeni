@@ -19,6 +19,6 @@ function lifeCycle(isAlive) {
 }
 ```
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivabeni&hide=prs,issues&count_private=true&show_icons=true&theme=default)
+[![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrivabeni&hide=prs,issues&count_private=true&show_icons=true&theme=default)](https://github.com/arrivabeni?tab=repositories)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrivabeni&theme=default&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrivabeni&theme=default&layout=compact)](https://github.com/arrivabeni?tab=repositories)
